@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I’m currently working at [GoDaddy](https://github.com/godaddy) on the [WordPress Experience team](https://github.com/godaddy-wordpress/) as a Senior Software Engineer.
+I currently work at [GoDaddy](https://godaddy.com/) on the WordPress Experience team as a Senior Software Engineer. I have also worked as an independent contractor and at various companies, including [Automattic](https://automattic.com/), [Packet Tide](https://packettide.com/), [10up](https://10up.com/), and [Overit](https://overit.com/). In my spare time, I enjoy contributing to the [WordPress Core](https://wordpress.org/) and [Gutenberg](https://github.com/wordpress/gutenberg) Open Source projects.
 
-In the past, I’ve worked as an independent contractor as well as at [Automattic](https://github.com/Automattic/), [Packet Tide](https://github.com/packettide), [10up](https://github.com/10up), and Overit. I also contribute to the [WordPress Core](https://github.com/WordPress/wordpress-develop) and [Gutenberg](https://github.com/WordPress/gutenberg) Open Source projects.
-
-If you’d like to connect, you can reach me via [email](mailto:hello@jrtashjian.com) or on <a rel="me" href="https://talos.link/@jrtashjian">Mastodon</a>.
+If you'd like to connect, please feel free to reach out to me via [email](mailto:hello@jrtashjian.com) or on [Mastodon](https://talos.link/@jrtashjian). I'd love to hear from you!
